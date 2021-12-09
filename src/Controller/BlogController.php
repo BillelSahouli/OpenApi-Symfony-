@@ -13,7 +13,7 @@ class BlogController extends AbstractController
      * path="/posts",
      *      @OA\Response(
      *          response = "200",
-     *          description="Nos articles",
+     *          description="Mes articles",
      *          @OA\JsonContent(type="string", description="Titre du premier article"),
      *      )
      * )
