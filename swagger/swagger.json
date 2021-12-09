@@ -1,0 +1,13 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "API tutoriel",
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "http://api.tuoriel.fr/v1",
+            "description": "Mon api"
+        }
+    ]
+}
